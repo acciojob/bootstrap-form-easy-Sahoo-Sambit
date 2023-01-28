@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+.row{
+    margin-bottom: 2% !important;
+}
+h1{
+    text-align: center;
+}
+body{
+    border: 1px solid black;
+    padding: 50px !important;
+    margin: 10px !important;
+}
